@@ -78,7 +78,6 @@ I am a **Third-semester B.Tech Information Technology** student with a relentles
 
 ### Current Focus
 - Strengthening **backend engineering fundamentals**
-- Learning **Spring Boot** for scalable Java backends
 - Designing **hybrid systems (Javascript + Python AI)**
 - Improving **system design & performance**
 
@@ -87,7 +86,6 @@ I am a **Third-semester B.Tech Information Technology** student with a relentles
 
 ### Roadmap (2026)
 - [ ] Advanced Backend Architecture
-- [ ] Spring Boot + Microservices
 - [ ] AI Agent Orchestration
 - [ ] Open-source contributions
 
