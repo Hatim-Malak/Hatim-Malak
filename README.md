@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hatim%20Malak&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20|%20Backend%20&%20AI%20Enthusiast&descAlignY=51&descAlign=62" alt="Hatim Malak Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Hatim%20Malak&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20|%20Backend%20&%20AI%20Enthusiast&descAlignY=51&descAlign=62" alt="Hatim Malak Header" width="100%"/>
 
   <p>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
