@@ -61,4 +61,52 @@ I am a **Third-semester B.Tech Information Technology** student with a relentles
 ### Backend & Web
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-%23FF5E00.svg?style=for-the-badge&logo=dependabot&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Search-Embeddings-blueviolet?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Crumbs** | **Local-first AI assistant** for semantic file & code search, vector embeddings, and offline workflows. Focused on performance & low memory usage. | ![Python](https://img.shields.io/badge/-Python-333) ![AI](https://img.shields.io/badge/-Vector_Embeddings-333) |
+| **MERN E-commerce** | Full authentication (JWT/Cookies), Product & Cart management, Category search, and Global state management. | ![React](https://img.shields.io/badge/-React-333) ![Node](https://img.shields.io/badge/-Node-333) ![Zustand](https://img.shields.io/badge/-Zustand-333) |
+
+---
+
+## 🎯 Focus & Roadmap
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Current Focus
+- Strengthening **backend engineering fundamentals**
+- Designing **hybrid systems (JS + Python AI)**
+- Improving **system design & performance**
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ Roadmap (2026)
+- [ ] Advanced Backend Architecture & Spring Boot
+- [ ] AI Agent Orchestration (CrewAI)
+- [ ] Open-source contributions
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <br/>
+  <i>Always building. Always learning.</i>
+</div>
