@@ -1,87 +1,112 @@
 <div align="center">
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=505050&height=300&section=header&text=Hatim%20Malak&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20|%20Backend%20&%20AI%20Enthusiast&descAlignY=51&descAlign=62" alt="Hatim Malak Header" width="100%"/>
 
-  <img src="https://i.pinimg.com/originals/4f/71/e6/4f71e62615bcba074a162220468f7e2a.gif" width="250" alt="Asta doing pushups"/>
-
-  <h1>⚡ Hatim Malak</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Spring+Boot;AI+Agent+Builder+%7C+LangChain+%2B+LangGraph;Linux+CLI+Enthusiast;My+magic+is+never+giving+up!+⚡" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:YOUR_EMAIL">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
   </p>
 
+  <h3>
+    MERN Stack Developer | Backend & AI Enthusiast <br/>
+    B.Tech IT Student (Graduating 2028) | India
+  </h3>
 </div>
 
 ---
 
-## ⚡ About Me
-
-I'm a 3rd-semester B.Tech IT student pushing my limits in **Backend Engineering** and **Artificial Intelligence**. I thrive on building scalable architectures and intelligent, autonomous systems. When I'm not writing code, I'm deep diving into Linux internals or optimizing my CLI workflow.
-
-- ⚙️ **Current Obsession:** Advanced Backend Architecture with **Spring Boot** (Microservices, Security).
-- 🧠 **AI Focus:** Orchestrating AI workflows and building local-first agents using **LangChain & LangGraph**.
-- 💬 *"My magic is never giving up!" — Asta*
-
----
-
-## 🛠️ Tech Arsenal
+## About Me
 
 <div align="center">
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
-| **Backend & APIs** | ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
-| **AI & ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-005238?style=flat) ![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=flat&logo=huggingface&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
-
+  <img align="right" width="300" src="https://media1.tenor.com/m/Xw1rVqQA4pUAAAAC/black-clover-asta.gif" alt="Asta Determination" />
 </div>
 
----
+> **"My magic is never giving up!"** — *Asta (Black Clover)*
 
-## 🚀 Featured Projects
+I am a **Third-semester B.Tech Information Technology** student with a relentless drive to build scalable systems.
 
-### 🍞 Crumbs (Local-First AI Assistant)
-- **Tech:** LangChain, LangGraph, Python, Vector Embeddings.
-- **What it does:** A semantic file and code search assistant built with AI agent orchestration.
+- Strong foundation in **MERN Stack Development**
+- Experienced with **authentication, state management, and API design**
+- Actively transitioning towards **Backend-heavy systems & AI Agents**
+- Interested in **Javascript backends + Python-based AI integration**
 
-### 🗺️ Prayatna
-- **Tech:** Python, OSMnx, Data Structures.
-- **What it does:** City-wide route tooling and optimization for Indore, India.
-
-### 🕵️ Fake AI Video Detection Web Tool
-- **Tech:** Full-stack Web, AI/ML Models.
-- **What it does:** Identifies and flags synthetic/deepfake video content on the web.
-
-### 🛒 Full-Stack MERN E-Commerce
-- **Tech:** MongoDB, Express, React, Node.js, Zustand.
-- **What it does:** Complete shopping experience with JWT (Cookie-based) Auth and robust product/category search.
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Analytics
+## Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### MERN Stack & Web
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
+
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Search-Embeddings-blueviolet?style=for-the-badge)
+
+---
+
+## Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Crumbs** | **Local-first AI assistant** for semantic file & code search, vector embeddings, and offline AI workflows. Focused on performance & low memory usage. | ![Python](https://img.shields.io/badge/-Python-333) ![AI](https://img.shields.io/badge/-Vector_Embeddings-333) |
+| **MERN E-commerce** | Full authentication (JWT/Cookies), Product & Cart management, Category search, and Global state (Zustand). | ![React](https://img.shields.io/badge/-React-333) ![Node](https://img.shields.io/badge/-Node-333) ![Zustand](https://img.shields.io/badge/-Zustand-333) |
+
+---
+
+## Focus & Roadmap
+
+<table>
+<tr>
+<td width="50%">
+
+### Current Focus
+- Strengthening **backend engineering fundamentals**
+- Designing **hybrid systems (Javascript + Python AI)**
+- Improving **system design & performance**
+
+</td>
+<td width="50%">
+
+### Roadmap (2026)
+- [ ] Advanced Backend Architecture
+- [ ] AI Agent Orchestration
+- [ ] Open-source contributions
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hatim-Malak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hatim-Malak&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+### Let's Connect
 
-</div>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<br/><br/>
+<i>Always building. Always learning.</i>
 
-## 🎯 2026 Quests
-
-- [ ] Master advanced Spring Boot concepts.
-- [ ] Deploy production-grade AI agents.
-- [ ] Contribute meaningfully to Open Source.
-- [ ] Secure a top-tier backend/AI internship. 🚀
-
-<div align="center">
-  <br>
-  <i>🔥 Always building. Always learning. 🔥</i>
 </div>
