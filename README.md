@@ -1,6 +1,9 @@
 <div align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=505050&height=300&section=header&text=Hatim%20Malak&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20|%20Backend%20&%20AI%20Enthusiast&descAlignY=51&descAlign=62" alt="Hatim Malak Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=505050&height=250&section=header&text=Hatim%20Malak&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20|%20Backend%20&%20AI%20Enthusiast&descAlignY=51&descAlign=62" alt="Hatim Malak Header" width="100%"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=45A29E&center=true&vCenter=true&width=600&lines=Hello,+I'm+Hatim!;B.Tech+IT+Student;MERN+Stack+Developer;Backend+%26+AI+Architect;Building+Scalable+Systems" alt="Typing SVG" />
+  </a>
 
   <p>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
@@ -10,35 +13,44 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
-
-  <h3>
-    MERN Stack Developer | Backend & AI Enthusiast <br/>
-    B.Tech IT Student (Graduating 2028) | India
-  </h3>
 </div>
 
 ---
 
-## About Me
+## ⚡ About Me
 
 <div align="center">
-  <img align="right" width="300" src="https://media1.tenor.com/m/Xw1rVqQA4pUAAAAC/black-clover-asta.gif" alt="Asta Determination" />
+  <img src="https://media1.tenor.com/m/Xw1rVqQA4pUAAAAC/black-clover-asta.gif" width="350" alt="Asta Determination" />
+  <br/>
+  <blockquote>
+    <b>"My magic is never giving up!"</b> — <i>Asta (Black Clover)</i>
+  </blockquote>
 </div>
 
-> **"My magic is never giving up!"** — *Asta (Black Clover)*
+I am a **Third-semester B.Tech Information Technology** student with a relentless drive to build scalable, high-performance systems.
 
-I am a **Third-semester B.Tech Information Technology** student with a relentless drive to build scalable systems.
-
-- Strong foundation in **MERN Stack Development**
-- Experienced with **authentication, state management, and API design**
-- Actively transitioning towards **Backend-heavy systems & AI Agents**
-- Interested in **Javascript backends + Python-based AI integration**
-
-<br clear="right"/>
+- 💻 Strong foundation in **MERN Stack Development** (Auth, State Management, API Design)
+- ⚙️ Actively transitioning towards **Backend-heavy systems & AI Agents**
+- 🧠 Deeply interested in **Javascript backends + Python-based AI integration**
 
 ---
 
-## Tech Stack
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=45A29E&line=45A29E&point=FFFFFF&area=true&hide_border=true" alt="Hatim's Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hatim's GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="195"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -61,30 +73,30 @@ I am a **Third-semester B.Tech Information Technology** student with a relentles
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Crumbs** | **Local-first AI assistant** for semantic file & code search, vector embeddings, and offline AI workflows. Focused on performance & low memory usage. | ![Python](https://img.shields.io/badge/-Python-333) ![AI](https://img.shields.io/badge/-Vector_Embeddings-333) |
-| **MERN E-commerce** | Full authentication (JWT/Cookies), Product & Cart management, Category search, and Global state (Zustand). | ![React](https://img.shields.io/badge/-React-333) ![Node](https://img.shields.io/badge/-Node-333) ![Zustand](https://img.shields.io/badge/-Zustand-333) |
+| **Crumbs** | **Local-first AI assistant** for semantic file & code search, vector embeddings, and offline workflows. Focused on performance & low memory usage. | ![Python](https://img.shields.io/badge/-Python-333) ![AI](https://img.shields.io/badge/-Vector_Embeddings-333) |
+| **MERN E-commerce** | Full authentication (JWT/Cookies), Product & Cart management, Category search, and Global state management. | ![React](https://img.shields.io/badge/-React-333) ![Node](https://img.shields.io/badge/-Node-333) ![Zustand](https://img.shields.io/badge/-Zustand-333) |
 
 ---
 
-## Focus & Roadmap
+## 🎯 Focus & Roadmap
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Current Focus
+### 🔭 Current Focus
 - Strengthening **backend engineering fundamentals**
-- Designing **hybrid systems (Javascript + Python AI)**
+- Designing **hybrid systems (JS + Python AI)**
 - Improving **system design & performance**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Roadmap (2026)
+### 🗺️ Roadmap (2026)
 - [ ] Advanced Backend Architecture
 - [ ] AI Agent Orchestration
 - [ ] Open-source contributions
@@ -93,20 +105,7 @@ I am a **Third-semester B.Tech Information Technology** student with a relentles
 </tr>
 </table>
 
----
-
 <div align="center">
-
-### Let's Connect
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL_HERE">
-  <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-<i>Always building. Always learning.</i>
-
+  <br/>
+  <i>Always building. Always learning.</i>
 </div>
