@@ -106,7 +106,5 @@ I am a **Third-semester B.Tech Information Technology** student with a relentles
   <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
-<i>Always building. Always learning.</i>
 
 </div>
