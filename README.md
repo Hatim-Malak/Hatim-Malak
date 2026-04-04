@@ -104,7 +104,7 @@ I am a **Third-semester B.Tech Information Technology** student with a relentles
 </a>
 <a href="mailto:YOUR_EMAIL_HERE">
   <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a
 
 
 </div>
