@@ -56,7 +56,7 @@ The thesis is simple: the next generation of backend isn't just serving data —
 
 ---
 
-## ⚡ Tech Arsenal
+## Tech Arsenal
 
 <table>
 <tr>
@@ -67,7 +67,7 @@ The thesis is simple: the next generation of backend isn't just serving data —
 Java          ████████████  Primary
 Python        ████████░░░░  AI Layer
 JavaScript    █████░░░░░░░  Frontend
-C++           ████░░░░░░░░  DSA
+java          ████░░░░░░░░  DSA
 ```
 
 </td>
@@ -105,9 +105,9 @@ Local AI Workflows  ◈ Offline
 
 ---
 
-## 🛠️ Projects
+## Projects
 
-### 🔍 Crumbs — Local-First AI Assistant
+### Crumbs — Local-First AI Assistant
 > *Semantic search for your files and codebase. No cloud. No latency. Yours.*
 
 **What it does:**
@@ -121,7 +121,7 @@ Local AI Workflows  ◈ Offline
 
 ---
 
-### 🛒 MERN E-Commerce Platform
+### MERN E-Commerce Platform
 > *Full-stack store with real auth, real state, real engineering.*
 
 **What it does:**
@@ -135,7 +135,7 @@ Local AI Workflows  ◈ Offline
 
 ---
 
-## 🗺️ Current Focus & Roadmap
+## Current Focus & Roadmap
 
 ```
 2025  ──▶  Spring Boot fundamentals (REST, Security, JPA)        ✓ done
@@ -152,7 +152,7 @@ Local AI Workflows  ◈ Offline
 
 ---
 
-## 💡 How I Think
+## How I Think
 
 I don't just write code — I think in systems.
 
@@ -162,7 +162,7 @@ Currently learning how to make Java and Python *talk well together* — treating
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -176,7 +176,7 @@ Currently learning how to make Java and Python *talk well together* — treating
 
 ---
 
-## 💬 Let's Build Something
+## Let's Build Something
 
 <div align="center">
 
