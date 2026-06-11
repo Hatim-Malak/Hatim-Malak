@@ -18,6 +18,7 @@
 ![AI Systems](https://img.shields.io/badge/AI_Systems-Building-%231D9E75?style=flat-square&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Open_to_internships-%23BA7517?style=flat-square)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-hatim--porfolio.vercel.app-%235865F2?style=flat-square&logo=vercel&logoColor=white)](https://hatim-porfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-malak-8ba254279/)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:hatim05042006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Hatim-Malak)
@@ -31,11 +32,12 @@
 ```java
 public class HatimMalak {
 
-    String role     = "Backend Engineer & AI Enthusiast";
-    String[] stack  = {"Spring Boot", "Java", "Python (AI)", "JavaScript"};
-    String building = "Scalable backends + AI-powered pipelines";
-    String mantra   = "My magic is never giving up.";  // Asta — Black Clover
-    String status   = "Open to collaborations & internships";
+    String role      = "Backend Engineer & AI Enthusiast";
+    String[] stack   = {"Spring Boot", "Java", "Python (AI)", "JavaScript"};
+    String building  = "Scalable backends + AI-powered pipelines";
+    String portfolio = "https://hatim-porfolio.vercel.app/";  // → the full picture
+    String mantra    = "My magic is never giving up.";        // Asta — Black Clover
+    String status    = "Open to collaborations & internships";
 
     public static void main(String[] args) {
         System.out.println("Let's build something that matters.");
@@ -46,6 +48,18 @@ public class HatimMalak {
 I engineer **production-grade Java backends** with Spring Boot and am actively building the bridge to **AI-powered architectures** — from REST APIs and microservices to vector-search pipelines and local AI agents.
 
 The thesis is simple: the next generation of backend isn't just serving data — it's serving **intelligence**.
+
+---
+
+## Portfolio
+
+<div align="center">
+
+### → [hatim-porfolio.vercel.app](https://hatim-porfolio.vercel.app/)
+
+</div>
+
+> The README gives you the overview. The portfolio shows you the work — projects, design thinking, and how I build end-to-end. If you want to know what I'm actually capable of, that's the place to look.
 
 ---
 
@@ -122,7 +136,7 @@ Local AI Workflows  ◈ Offline
 - **Global state management** with Zustand — clean architecture, zero prop drilling
 - Product catalog, cart management, and category-based search
 
-**What I learned:** Auth is easy to get wrong and painful to fix later. Building this properly, stateless tokens + server-side cookie hygiene, rewired how I think about API security.
+**What I learned:** Auth is easy to get wrong and painful to fix later. Building this properly — stateless tokens + server-side cookie hygiene — rewired how I think about API security.
 
 `React` `Node.js` `Express` `MongoDB` `Zustand` `JWT`
 
@@ -177,6 +191,7 @@ Looking for **collaborations, internships, and open-source projects** — especi
 
 If you're working on something ambitious in those spaces, I want to hear about it.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work-%235865F2?style=for-the-badge&logo=vercel&logoColor=white)](https://hatim-porfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-malak-8ba254279/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatim05042006@gmail.com)
 
