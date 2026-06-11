@@ -1,19 +1,12 @@
 <div align="center">
 
 ```
-██╗  ██╗ █████╗ ████████╗██╗███╗   ███╗
-██║  ██║██╔══██╗╚══██╔══╝██║████╗ ████║
-███████║███████║   ██║   ██║██╔████╔██║
-██╔══██║██╔══██║   ██║   ██║██║╚██╔╝██║
-██║  ██║██║  ██║   ██║   ██║██║ ╚═╝ ██║
-╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝     ╚═╝
-
-███╗   ███╗ █████╗ ██╗      █████╗ ██╗  ██╗
-████╗ ████║██╔══██╗██║     ██╔══██╗██║ ██╔╝
-██╔████╔██║███████║██║     ███████║█████╔╝
-██║╚██╔╝██║██╔══██║██║     ██╔══██║██╔═██╗
-██║ ╚═╝ ██║██║  ██║███████╗██║  ██║██║  ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+██╗  ██╗ █████╗ ████████╗██╗███╗   ███╗    ███╗   ███╗ █████╗ ██╗      █████╗ ██╗  ██╗
+██║  ██║██╔══██╗╚══██╔══╝██║████╗ ████║    ████╗ ████║██╔══██╗██║     ██╔══██╗██║ ██╔╝
+███████║███████║   ██║   ██║██╔████╔██║    ██╔████╔██║███████║██║     ███████║█████╔╝ 
+██╔══██║██╔══██║   ██║   ██║██║╚██╔╝██║    ██║╚██╔╝██║██╔══██║██║     ██╔══██║██╔═██╗ 
+██║  ██║██║  ██║   ██║   ██║██║ ╚═╝ ██║    ██║ ╚═╝ ██║██║  ██║███████╗██║  ██║██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝     ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 ### Java Backend Engineer · AI Systems · Spring Boot
@@ -25,8 +18,8 @@
 ![AI Systems](https://img.shields.io/badge/AI_Systems-Building-%231D9E75?style=flat-square&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Open_to_internships-%23BA7517?style=flat-square)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-malak-8ba254279/)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:hatim05042006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Hatim-Malak)
 
 </div>
@@ -67,7 +60,7 @@ The thesis is simple: the next generation of backend isn't just serving data —
 Java          ████████████  Primary
 Python        ████████░░░░  AI Layer
 JavaScript    █████░░░░░░░  Frontend
-java          ████░░░░░░░░  DSA
+C++           ████░░░░░░░░  DSA
 ```
 
 </td>
@@ -184,8 +177,8 @@ Looking for **collaborations, internships, and open-source projects** — especi
 
 If you're working on something ambitious in those spaces, I want to hear about it.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-malak-8ba254279/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatim05042006@gmail.com)
 
 ---
 
